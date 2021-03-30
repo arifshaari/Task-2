@@ -1,4 +1,3 @@
-# Task-2
-This is a task 2 .
+# WUFO Inventory Management System
 
-Hey there! Its me Arif!!! and Dan!!! and Fahmi!!! yayy I like to code and playing sports.
+This is Software Configuration Management for WUFO Inventory Management System change request form.
